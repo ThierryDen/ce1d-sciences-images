@@ -1,0 +1,93 @@
+CE1D SCIENCES 2014 - INDEX DES IMAGES
+======================================================================
+
+INSTRUCTIONS :
+1. Ouvrir le PDF CE1D original
+2. Pour chaque page, noter le contenu
+3. Identifier les images importantes
+4. Remplir la section RÉSUMÉ ci-dessous
+
+======================================================================
+
+DÉTAIL PAGE PAR PAGE :
+----------------------------------------------------------------------
+
+PAGE 01 : [page de garde]
+PAGE 02 : [Q1 - illustration centrale électrique]
+PAGE 03 : [Q1 - chaine de transformations énergétiques]
+PAGE 04 : [Q2 - formes d'énergie]
+PAGE 05 : [page vide]
+PAGE 06 : [Q3 - réseau trophique]
+PAGE 07 : [Q3 - questions ]
+PAGE 08 : [Q4 - documents]
+PAGE 09 : [Q4 - documents régimes différents animaux]
+PAGE 10 : [Q4 - explication]
+PAGE 11 : [Q5 - volume des états de la matière]
+PAGE 12 : [Q6 - changement d'états]
+PAGE 13 : [Q6 - modèles moléculaires des états de la matière]
+PAGE 14 : [Q7 - circulation des mammifères]
+PAGE 15 : [Q8 - fécondation in vitro de la femme]
+PAGE 16 : [Q9 - pression des solides]
+PAGE 17 : [Q10 - construction d'un tableau comparatif]
+PAGE 18 : [Q11 - expérience historique]
+PAGE 19 : [Q12 - facteur influençant la pression des solides]
+PAGE 20 : [page de garde]
+PAGE 21 : [page de garde]
+PAGE 22 : [Q13 - rapport d'expérience]
+PAGE 23 : [Q14 - photos d'expérience]
+PAGE 24 : [page de garde]
+
+======================================================================
+
+RÉSUMÉ : IMAGES IMPORTANTES PAR QUESTION
+----------------------------------------------------------------------
+
+⭐ Section LA PLUS IMPORTANTE pour Claude !
+Listez uniquement les pages avec images essentielles.
+
+Question 01 :
+  - page-02.png : [Montage expérimental pour les transformations d'énergie]
+
+Question 02 :
+  - page-04.png : [2 images d'appareils électriques]
+
+Question 03 :
+  - page-06.png : [Réseau trophique de nos campagnes]
+
+Question 04 :
+  - page-08.png : [illustration de la croissance d'un plant de maïs]
+  - page-08.png : [graphique circulaire des principales proies du léopard]
+  - page-09.png : [illustration des animaux en onction de leur régime alimentaire]
+
+Question 05 :
+  - page-11.png : [représentation des cubes pour les états de la matière]
+
+Question 06 :
+  - page-12.png : [graphique évolutif de la mesure de la température de l'eau pure en fonction du temps]
+  - page-13.png : [représentation, avec légende, des modèles molécules de différentes matières]
+
+Question 07 :
+  - page-14.png : [propositions de schémas sur la circulation des mammifères]
+
+Question 08 :
+  - page-15.png : [schémas de la fécondation in vitro]
+
+Question 09 :
+  - page-16.png : [schémas d'élévateurs pour plaque de plâtre]
+
+Question 10 :
+  - page-XX.png : [Description image]
+
+Question 11 :
+  - page-XX.png : [Description image]
+
+Question 12 :
+  - page-19.png : [schémas, avec légende, représentant différentes masses sur des tables pour illustrer la pression des solides]
+
+Question 13 :
+  - page-XX.png : [Description image]
+
+Question 14 :
+  - page-23.png : [2 photos montrant la réaction des végétaux selon leur exposition au soleil]
+
+
